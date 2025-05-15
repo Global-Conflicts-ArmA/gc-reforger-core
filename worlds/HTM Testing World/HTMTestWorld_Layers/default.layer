@@ -1,0 +1,8 @@
+Vehicle APC_K17_Epoch_HTM1 : "{C84FF4497D058530}Prefabs/Vehicles/Wheeled/K17/APC_K17_Epoch_HTM1.et" {
+ coords 4119.74 163.47 4049.109
+ angleY 64.37
+}
+Vehicle K4386_Armed1_HTM1 : "{FDAF8BD7DDDE6B51}Prefabs/Vehicles/Wheeled/K4386/K4386_Armed1_HTM.et" {
+ coords 4125.371 163.772 4040.955
+ angleY 63.986
+}
