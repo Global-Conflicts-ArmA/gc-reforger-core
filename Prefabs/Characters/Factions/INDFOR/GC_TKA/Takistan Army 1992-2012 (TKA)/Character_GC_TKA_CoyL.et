@@ -1,0 +1,10 @@
+SCR_ChimeraCharacter : "{0BFF454C3AD6AF59}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army, 1992-2012 (TKA)/Character_GC_TKA_PL.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Company Commander"
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+SCR_ChimeraCharacter : "{92E1FCD527319EC9}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army, 1992-2012 (TKA)/Character_GC_TKA_SL.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Platoon Sergeant"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{22529BCDC9439FCD}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_M203_OliveGreen_Sand_Stripes.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{22963D69CA50EB9E}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_net.et"
+    }
+   }
+  }
+ }
+}

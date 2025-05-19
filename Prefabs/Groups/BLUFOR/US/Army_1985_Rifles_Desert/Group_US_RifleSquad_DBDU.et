@@ -1,0 +1,6 @@
+SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_P.et" {
+ ID "0000000000000001"
+ m_aUnitPrefabSlots {
+  "{30400AE6344E837D}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_SL.et" "{3787F0B752C839C0}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_TL.et" "{5DC8FBF906CA2170}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_AR.et" "{501D85D8F17D4846}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_GL.et" "{3B5A16962E03A0E5}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_LAT.et" "{3787F0B752C839C0}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_TL.et" "{5DC8FBF906CA2170}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_AR.et" "{501D85D8F17D4846}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_GL.et" "{3B5A16962E03A0E5}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/Character_US_DBDU_LAT.et"
+ }
+}

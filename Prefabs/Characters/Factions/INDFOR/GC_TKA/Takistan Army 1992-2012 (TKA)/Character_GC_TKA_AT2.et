@@ -1,0 +1,44 @@
+SCR_ChimeraCharacter : "{581D9CB4D35A3203}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army, 1992-2012 (TKA)/Character_GC_TKA_AT1.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "AT Specialist Asst."
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{B036BA26CCFE9E5D}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_OliveGreen_Sand_Stripes.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
+   WeaponTemplate ""
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{22963D69CA50EB9E}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_net.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{6A39B5843B3F36DA}Prefabs/Items/Equipment/Backpacks/Backpack_RPG_Assistant.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{655D4810A052E04D}" {
+     PrefabsToSpawn {
+      "{2EBF60EF24B108FC}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855_Ball.et" "{2EBF60EF24B108FC}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855_Ball.et" "{2EBF60EF24B108FC}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855_Ball.et" "{2EBF60EF24B108FC}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855_Ball.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+     }
+    }
+    ItemsInitConfigurationItem "{655D480C2600110F}" {
+     PrefabsToSpawn {
+      "{2EBF60EF24B108FC}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855_Ball.et" "{2EBF60EF24B108FC}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_M855_Ball.et"
+     }
+    }
+    ItemsInitConfigurationItem "{655D480B4AFFCA1F}" {
+     TargetStorage "Back/Backpack_RPG_Assistant.et"
+    }
+   }
+  }
+ }
+ coords 1.345 -5.55 -5.961
+}

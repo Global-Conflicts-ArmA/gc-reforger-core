@@ -1,0 +1,50 @@
+$grp Tank : "{72018C87FBDC9F8C}Prefabs/Vehicles/Tracked/BFV/M2A2_Desert.et" {
+ M2A2_Desert1 {
+  coords 2195.814 393.6 473.218
+  angleX -3.236
+  angleY 36.479
+  angleZ 0.079
+ }
+ M2A2_Desert2 {
+  coords 2192.494 394.074 458.692
+  angleX -0.626
+  angleY 36.474
+  angleZ -0.109
+ }
+ M2A2_Desert3 {
+  coords 2180.249 393.992 452.792
+  angleX 1.025
+  angleY 33.725
+  angleZ 0.001
+ }
+ M2A2_Desert4 {
+  coords 2180.189 393.799 439.855
+  angleX 1.025
+  angleY 32.854
+  angleZ -0.015
+ }
+ M2A2_Desert5 {
+  coords 2161.938 393.319 420.878
+  angleX 3.852
+  angleY 32.47
+  angleZ -0.239
+ }
+ M2A2_Desert6 {
+  coords 2158.999 392.206 404.173
+  angleX 4.33
+  angleY 32.137
+  angleZ 0.04
+ }
+ M2A2_Desert7 {
+  coords 2144.64 390.97 393.268
+  angleX 3.939
+  angleY 32.622
+  angleZ 0.162
+ }
+ M2A2_Desert8 {
+  coords 2142.213 389.554 373.833
+  angleX 5.199
+  angleY 31.546
+  angleZ 0.198
+ }
+}

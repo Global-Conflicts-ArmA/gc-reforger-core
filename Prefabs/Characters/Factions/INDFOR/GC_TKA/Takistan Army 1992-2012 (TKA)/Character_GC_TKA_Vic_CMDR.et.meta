@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{073CB3C80611CD34}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army, 1992-2012 (TKA)/Character_GC_TKA_Vic_CMDR.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

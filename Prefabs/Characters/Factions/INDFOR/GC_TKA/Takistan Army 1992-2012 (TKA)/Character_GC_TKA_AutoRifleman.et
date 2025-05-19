@@ -1,0 +1,31 @@
+SCR_ChimeraCharacter : "{21A1481C0C4345AF}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army, 1992-2012 (TKA)/Character_GC_TKA_Rifleman.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Automatic Rifleman"
+    Icon "{EF1F445746A3391A}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_MachineGunner.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{5F365605E36597FB}Prefabs/Weapons/MachineGuns/RPK74/MG_RPK74N.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{E90F2EB67A9CF49A}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet_NoCross_02.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{655D480559991A48}" {
+     TargetStorage "Back/Backpack_Medical_Soviet_NoCross_02.et"
+     PrefabsToSpawn {
+      "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et" "{D78C667F59829717}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_4Ball_1Tracer.et"
+     }
+    }
+   }
+  }
+ }
+}

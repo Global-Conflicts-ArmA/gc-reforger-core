@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6FD2DBB0543872A5}Prefabs/Characters/Factions/BLUFOR/US_Army/GreenBerets/Character_US_DBDU_SF_Medic.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

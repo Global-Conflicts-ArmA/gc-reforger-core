@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{B72A7B3D28170D73}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_CrewGunner_P.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
+  }
+ }
+}

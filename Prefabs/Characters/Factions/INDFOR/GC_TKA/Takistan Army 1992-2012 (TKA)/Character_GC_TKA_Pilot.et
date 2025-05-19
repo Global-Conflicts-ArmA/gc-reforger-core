@@ -1,0 +1,50 @@
+SCR_ChimeraCharacter : "{073CB3C80611CD34}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Character_GC_TKA_Vic_CMDR.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
+   components {
+    SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot BinocularSlot {
+       Prefab ""
+      }
+     }
+    }
+   }
+  }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Helicopter Pilot"
+   }
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{E49D9EE7E2B3016C}Prefabs/Characters/HeadGear/Helmet_ZSh5_01/Helmet_ZSh5_01.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{54C68E438DD34265}Prefabs/Items/Equipment/Radios/Radio_R107M.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{506EF3B2F0A69D34}Prefabs/Characters/Vests/Vest_NAZ/Vest_NAZ.et"
+    }
+    LoadoutSlotInfo HandWear {
+     Prefab "{D19C474FA0F42CC4}Prefabs/Characters/Handwear/Gloves_Pilot_US_01/Gloves_Pilot_US_01.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173FAA7C00C}" {
+     TargetStorage "Vest/Vest_NAZ.et"
+    }
+    ItemsInitConfigurationItem "{655D4804AA1253D1}" {
+     TargetStorage "Vest/Vest_NAZ.et"
+     PrefabsToSpawn {
+      "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+     }
+    }
+   }
+  }
+ }
+}

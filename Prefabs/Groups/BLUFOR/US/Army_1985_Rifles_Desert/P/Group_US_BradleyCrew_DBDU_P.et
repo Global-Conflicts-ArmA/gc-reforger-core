@@ -1,0 +1,6 @@
+SCR_AIGroup : "{BC357974A560F678}Prefabs/Groups/BLUFOR/Group_US_RifleSquad_P.et" {
+ ID "0000000000000001"
+ m_aUnitPrefabSlots {
+  "{7C589F7F29FA6FE9}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_CrewCommander_P.et" "{B72A7B3D28170D73}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_CrewGunner_P.et" "{665E85338D97A010}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_CrewDriver_P.et"
+ }
+}

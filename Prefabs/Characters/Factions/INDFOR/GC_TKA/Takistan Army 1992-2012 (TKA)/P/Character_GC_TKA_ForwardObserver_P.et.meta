@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3E2D415F404A1EE5}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Character_GC_TKA_ForwardObserver_P.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

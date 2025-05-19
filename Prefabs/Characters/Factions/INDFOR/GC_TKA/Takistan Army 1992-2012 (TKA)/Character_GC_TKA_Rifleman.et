@@ -1,0 +1,62 @@
+SCR_ChimeraCharacter : "{AEE253894DD97DF1}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army, 1992-2012 (TKA)/Character_GC_TKA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Rifleman"
+    Icon "{AE53796BC5D21A08}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Rifleman.edds"
+   }
+  }
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponTemplate "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et"
+  }
+  CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {
+   WeaponTemplate "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{96DFD2E7E63B3386}Prefabs/Weapons/Rifles/AK74/Rifle_AK74N.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{A7E6D7ECD5F684D7}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{A080C1AEBF921DC4}Prefabs/Characters/Uniforms/Jacket_US_BDU_rolledup_02.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{4CBDC206FEF9897C}Prefabs/Characters/Vests/Vest_6B3/Vest_6B3.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{86BB79B9A2233780}Prefabs/Characters/Uniforms/Pants_US_M65.et"
+    }
+    LoadoutSlotInfo Back {
+    }
+    LoadoutSlotInfo Vest {
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173FAA7C00E}" {
+     TargetStorage "Pants/Pants_US_M65.et"
+    }
+    ItemsInitConfigurationItem "{5D7CC173FAA7C00C}" {
+     TargetStorage "ArmoredVest/Vest_6B3.et"
+    }
+    ItemsInitConfigurationItem "{655D4810A052E04D}" {
+     TargetStorage "ArmoredVest/Vest_6B3.et"
+     PrefabsToSpawn {
+      "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
+     }
+    }
+    ItemsInitConfigurationItem "{655D480C2600110F}" {
+     TargetStorage "Jacket/Jacket_US_BDU_rolledup_02.et"
+     PrefabsToSpawn {
+      "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et"
+     }
+    }
+   }
+  }
+ }
+}

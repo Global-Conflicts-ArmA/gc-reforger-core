@@ -1,0 +1,12 @@
+SCR_ChimeraCharacter : "{A95EB37F29A9B2EC}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_DBDU_PL.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{4B57C11AA5161760}Prefabs/Characters/Vests/Vest_PASGT/Vest_PASGT.et"
+    }
+   }
+  }
+ }
+}

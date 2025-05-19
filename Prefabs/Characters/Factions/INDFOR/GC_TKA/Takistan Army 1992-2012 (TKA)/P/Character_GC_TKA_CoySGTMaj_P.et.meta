@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3FED9C90937CCCBA}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Character_GC_TKA_CoySGTMaj_P.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

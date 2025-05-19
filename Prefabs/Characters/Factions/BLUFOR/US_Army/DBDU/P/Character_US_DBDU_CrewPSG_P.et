@@ -1,0 +1,10 @@
+SCR_ChimeraCharacter : "{7C589F7F29FA6FE9}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_CrewCommander_P.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Platoon Sergeant"
+   }
+  }
+ }
+}

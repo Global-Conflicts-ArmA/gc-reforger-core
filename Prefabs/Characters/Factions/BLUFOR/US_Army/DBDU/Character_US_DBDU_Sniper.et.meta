@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E240A7EAC4F4B620}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_DBDU_Sniper.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

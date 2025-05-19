@@ -1,0 +1,12 @@
+SCR_AIWorld : "{3DE6090FC602E566}Prefabs/AI/SCR_AIWorld_Takistan.et" {
+ coords 1975.592 423.991 1012.908
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 1975.581 423.663 1008.929
+}
+PS_GameModeCoop PS_GameMode_Lobby_TILWMF1 : "{4CFD54745CD45673}Prefabs/MP/Modes/PS_GameMode_Lobby_TILWMF.et" {
+ coords 1975.482 423.404 1002.828
+}
+TILW_MissionFrameworkEntity : "{8F846D0FD5D6EA51}Prefabs/MP/TILW_MissionFramework.et" {
+ coords 1975.155 423.397 997.46
+}
