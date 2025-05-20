@@ -1,0 +1,678 @@
+$grp StaticModelEntity : "{04160EF46BEB8758}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/TrenchOld_01_6m_metal_end.et" {
+ {
+  coords 5112.607 -0.478 1184.709
+  angleX 3.541
+  angleY 86.835
+  angleZ 6.015
+ }
+ {
+  coords 5094.571 -0.406 1224.568
+  angleX -6.961
+  angleY -118.477
+  angleZ 0.839
+ }
+ {
+  coords 5096.234 -0.607 1261.625
+  angleX 7.95
+  angleY 121.767
+  angleZ 0.047
+ }
+}
+$grp StaticModelEntity : "{19D504D46A48529A}Prefabs/Structures/Military/Fortifications/Trenches/ACE_TrenchHalf_01_long.et" {
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA228D42D3}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5120.269 -0.069 1139.651
+  angleX 4.216
+  angleY 93.919
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5120.853 -0.025 1139.829
+  angleX 10.292
+  angleY 93.919
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5042.657 0 1186.053
+  angleX 0.549
+  angleY -8.514
+  angleZ -2.093
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5045.547 0 1186.502
+  angleX 1.745
+  angleY -8.483
+  angleZ -3.701
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5040.573 0.274 1183.491
+  angleX -0.375
+  angleY -96.229
+  angleZ -0.817
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5040.895 0.291 1180.76
+  angleX -0.418
+  angleY -99.255
+  angleZ -0.796
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5043.515 0 1178.803
+  angleX -0.858
+  angleY -178.822
+  angleZ 0.267
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5046.439 0 1178.797
+  angleX -2.351
+  angleY 176.615
+  angleZ 3.548
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5118.45 -0.027 1156.422
+  angleX 15.085
+  angleY 82.34
+  angleZ 1.478
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5114.369 0.051 1156.394
+  angleX 6.612
+  angleY -99.703
+  angleZ -4.152
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5112.777 0.174 1157.966
+  angleX -2.877
+  angleY 156.867
+  angleZ 5.533
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5109.977 0.062 1157.012
+  angleX -2.877
+  angleY 156.867
+  angleZ 5.533
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5106.543 0.315 1157.465
+  angleX -6.234
+  angleY -139.939
+  angleZ -0.064
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5104.587 0.3 1160.542
+  angleX -5.187
+  angleY -106.734
+  angleZ -3.463
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5105.464 0.277 1163.616
+  angleX -0.627
+  angleY -45.171
+  angleZ -8.181
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5108.591 0.21 1165.258
+  angleX 4.083
+  angleY -11.142
+  angleZ -7.123
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5112.16 0.027 1167.028
+  angleX 6.612
+  angleY -99.703
+  angleZ -4.152
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5116.279 -0.054 1167.606
+  angleX 15.085
+  angleY 82.34
+  angleZ 3.631
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5084.927 0 1237.111
+  angleX 6.973
+  angleY -124.77
+  angleZ 6.739
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5089.54 -0.159 1239.259
+  angleX 9.095
+  angleY 79.574
+  angleZ -4.296
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5089.408 0.151 1246.194
+  angleX 18.565
+  angleY 117.512
+  angleZ 4.649
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5085.836 0.1 1247.876
+  angleX 3.042
+  angleY -66.191
+  angleZ -1.809
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5109.461 0.185 1215.99
+  angleX -4.573
+  angleY 174.314
+  angleZ 2.73
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5106.297 0.349 1217.44
+  angleX -6.25
+  angleY -122.355
+  angleZ -1.399
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5107.119 0.348 1223.624
+  angleX -2.233
+  angleY -27.549
+  angleZ -4.272
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5110.625 0.105 1224.276
+  angleX 1.385
+  angleY 6.444
+  angleZ -2.13
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 5105.354 0.35 1220.959
+  angleX -4.751
+  angleY -89.181
+  angleZ -4.871
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 4849.431 0.266 679.25
+  angleX -3.397
+  angleY -69.592
+  angleZ -3.076
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 4850.485 0.287 681.803
+  angleX -5.728
+  angleY -66.766
+  angleZ -0.301
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 4856.323 0 681.973
+  angleX -3.296
+  angleY 21.418
+  angleZ -4.028
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 4850.766 0 676.274
+  angleX -3.63
+  angleY -149.464
+  angleZ 2.798
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 4853.586 0.001 683.004
+  angleX -0.016
+  angleY 21.079
+  angleZ -5.472
+ }
+ {
+  components {
+   MeshObject "{5272E314F6439B95}" {
+    Materials {
+     MaterialAssignClass "{656879EA20D84CF4}" {
+      SourceMaterial "TerrainMat"
+      AssignedMaterial "{9047C306D5CA7A95}Assets/Structures/Military/Fortifications/Trenches/TrenchOld_01/Data/TrenchOld_02_450cm_dirt_ground.emat"
+     }
+    }
+   }
+  }
+  coords 4853.309 0 674.831
+  angleX -2.905
+  angleY -153.876
+  angleZ 2.052
+ }
+}
+Turret : "{29F0CC704A582154}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV.et" {
+ components {
+  TILW_VehicleCrewComponent "{65693D6F8CEDFE16}" {
+   m_crewConfig TILW_CrewConfig "{65693D6F8DB2E109}" {
+    m_crewGroups {
+     TILW_CrewGroup "{65693D6F8E73F006}" {
+      m_crewStations {
+       TILW_CrewStation "{65693D6F8F1F39BD}" {
+        m_allowPilot 0
+        m_allowCargo 0
+        m_characters {
+         "{21A1481C0C4345AF}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Character_GC_TKA_Rifleman.et"
+        }
+       }
+      }
+     }
+    }
+    m_noTurretDismount 1
+   }
+  }
+ }
+ coords 5080.884 391.371 1242.852
+ angleX -3.23
+ angleY -88.624
+}
+StaticModelEntity : "{5196CA1829D428F7}Prefabs/Compositions/Misc/SubCompositions/Sandbag_Bunker_Cluttered_US_01.et" {
+ coords 5113.478 383.45 1128.422
+ angleY -158.72
+}
+GenericEntity : "{7492BAA88AFCEDCE}Prefabs/Compositions/Slotted/SlotFlatSmall/Bunker_S_USSR_01.et" {
+ coords 5085.785 391.205 1242.679
+ angleX -9.337
+ angleY -88.116
+ angleZ 1.097
+ {
+  GenericEntity {
+   ID "5CCCBED96B5A2281"
+   coords -3.7 -0.048 -0.714
+   angleX -1.042
+   angleY -104.18
+   angleZ 0.58
+  }
+ }
+}
+$grp StaticModelEntity : "{8CAE228D5D44DD5F}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/TrenchOld_01_6m_metal.et" {
+ {
+  coords 5116.725 -0.535 1153.196
+  angleX 0.938
+  angleY 84.875
+  angleZ 5.491
+ }
+ {
+  coords 5113.759 -0.534 1171.731
+  angleX 4.857
+  angleY 85.372
+  angleZ 7.24
+ }
+ {
+  coords 5113.13 -0.427 1178.222
+  angleX 4.349
+  angleY 85.302
+  angleZ 7.839
+ }
+ {
+  coords 5088.848 -0.34 1234.755
+  angleX 7.155
+  angleY 58.829
+  angleZ -7.177
+ }
+ {
+  coords 5089.598 -0.32 1250.341
+  angleX 10.291
+  angleY 120.666
+  angleZ 4.112
+ }
+ {
+  coords 5092.12 -0.301 1229.037
+  angleX 7.155
+  angleY 58.829
+  angleZ -4.386
+ }
+ {
+  coords 5092.889 -0.388 1256.018
+  angleX 7.266
+  angleY 120.586
+  angleZ 4.199
+ }
+}
+GenericEntity : "{9F9924B626C5FA2C}Prefabs/Compositions/Slotted/SlotRoadLarge/Checkpoint_L_USSR_01.et" {
+ coords 5080.411 340.169 878.837
+ angleX -0.264
+ angleY -111.769
+ angleZ 0.105
+}
+$grp StaticModelEntity : "{C1576E5555582214}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_short.et" {
+ {
+  coords 5111.757 0.151 1130.545
+  angleY 110.973
+ }
+ {
+  coords 5116.334 0.448 1128.509
+  angleY 110.973
+ }
+}
+$grp StaticModelEntity : "{D57988FC629F723F}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_02/TrenchOld_02_450cm_metal.et" {
+ {
+  coords 5115.192 -0.336 1131.592
+  angleX -2.616
+  angleY 116.568
+  angleZ 4.643
+ }
+ {
+  coords 5117.213 -0.348 1135.964
+  angleX -4.556
+  angleY 110.613
+  angleZ 4.293
+ }
+ {
+  coords 5118.16 -0.285 1141.783
+  angleX -2.397
+  angleY 82.535
+  angleZ 5.736
+ }
+ {
+  coords 5117.349 -0.43 1147.996
+  angleX 0.399
+  angleY -97.367
+  angleZ -4.31
+ }
+}

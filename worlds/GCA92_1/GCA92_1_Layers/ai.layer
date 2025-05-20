@@ -1,0 +1,94 @@
+Turret : "{29F0CC704A582154}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV.et" {
+ components {
+  TILW_VehicleCrewComponent "{65693D6F8CEDFE16}" {
+   m_crewConfig TILW_CrewConfig "{65693D6F8DB2E109}" {
+    m_crewGroups {
+     TILW_CrewGroup "{65693D6F8E73F006}" {
+      m_crewStations {
+       TILW_CrewStation "{65693D6F8F1F39BD}" {
+        m_allowPilot 0
+        m_allowCargo 0
+        m_characters {
+         "{21A1481C0C4345AF}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Character_GC_TKA_Rifleman.et"
+        }
+       }
+      }
+     }
+    }
+    m_noTurretDismount 1
+   }
+  }
+ }
+ coords 5112.766 384.402 1126.73
+ angleY -158.884
+}
+$grp SCR_AIGroup : "{2B24EF789452269D}Prefabs/Groups/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Group_GC_TKA_PHQ.et" {
+ TKPlt1HQ {
+  coords 5153.666 390.986 1207.655
+  angleY -97.269
+ }
+ TKPlt2HQ {
+  coords 5247.379 338.18 956.562
+  angleY -97.269
+ }
+}
+$grp Tank : "{3868E03D9A4AF186}Prefabs/Vehicles/Tracked/BMP1/BMP1P_base.et" {
+ BMP1P_base1 {
+  coords 5108.986 386.198 1161.528
+  angleX -5.082
+  angleY -103.047
+  angleZ -4.337
+ }
+ BMP1P_base2 {
+  coords 5110.104 394.415 1220.46
+  angleX -1.907
+  angleY -85.727
+  angleZ -4.972
+ }
+ BMP1P_base3 {
+  coords 5072.072 341.105 894.562
+  angleX 1.496
+  angleY -104.581
+  angleZ -2.149
+ }
+}
+$grp SCR_AIGroup : "{5E24277419088E09}Prefabs/Groups/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Group_GC_TKA_RifleSquad.et" {
+ TKPlt1Sqd1 {
+  coords 5126.172 384.768 1143.888
+  angleY -100.25
+ }
+ TKPlt1Sqd2 {
+  coords 5110.92 395.207 1241.755
+  angleY -100.25
+ }
+ TKPlt1Sqd3 {
+  coords 4898.091 363.104 1292.197
+  angleY -100.25
+ }
+ TKPlt2Sqd1 {
+  coords 5094.454 340.12 885.633
+  angleY -100.25
+ }
+ TKPlt2Sqd2 {
+  coords 5096.987 344.413 947.562
+  angleY -100.25
+ }
+ TKPlt2Sqd3 {
+  coords 5208.48 335.173 883.296
+  angleY -100.25
+ }
+}
+$grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
+ T72B_base1 {
+  coords 5044.784 382.025 1182.639
+  angleX -2.118
+  angleY -92.973
+  angleZ -2.448
+ }
+ T72B_base2 {
+  coords 4853.754 359.32 678.987
+  angleX -2.908
+  angleY -63.302
+  angleZ -2.556
+ }
+}
