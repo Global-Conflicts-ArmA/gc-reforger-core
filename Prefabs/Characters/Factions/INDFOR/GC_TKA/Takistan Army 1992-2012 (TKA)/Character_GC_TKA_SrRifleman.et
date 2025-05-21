@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{21A1481C0C4345AF}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army, 1992-2012 (TKA)/Character_GC_TKA_Rifleman.et" {
+SCR_ChimeraCharacter : "{21A1481C0C4345AF}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Character_GC_TKA_Rifleman.et" {
  ID "520EC961A090B1EE"
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
@@ -7,7 +7,7 @@ SCR_ChimeraCharacter : "{21A1481C0C4345AF}Prefabs/Characters/Factions/INDFOR/GC_
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{B036BA26CCFE9E5D}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_OliveGreen_Sand_Stripes.et"
+   WeaponTemplate "{F1290C76103E99E6}Prefabs/Weapons/Rifles/M16A1/BC_Rifle_M16A1.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {

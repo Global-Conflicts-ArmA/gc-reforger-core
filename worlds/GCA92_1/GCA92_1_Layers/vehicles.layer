@@ -1,50 +1,76 @@
-$grp Tank : "{72018C87FBDC9F8C}Prefabs/Vehicles/Tracked/BFV/M2A2_Desert.et" {
- M2A2_Desert1 {
-  coords 2195.814 393.6 473.218
-  angleX -3.236
-  angleY 36.479
-  angleZ 0.079
+$grp Tank : "{3C3ADBCCDA1D877B}Prefabs/Vehicles/Tracked/M1A1/M1A1_Tan.et" {
+ M1A1_Tan1 {
+  coords 2201.374 392.972 480.549
+  angleX -4.026
+  angleY 42.648
+  angleZ -0.236
  }
- M2A2_Desert2 {
-  coords 2192.494 394.074 458.692
-  angleX -0.626
-  angleY 36.474
-  angleZ -0.109
+ M1A1_Tan2 {
+  coords 2197.672 393.846 465.921
+  angleX -2.216
+  angleY 42.642
+  angleZ -0.11
  }
- M2A2_Desert3 {
-  coords 2180.249 393.992 452.792
+ M1A1_Tan3 {
+  coords 2185.177 394.116 459.464
+  angleX 0.63
+  angleY 34.034
+  angleZ 0.083
+ }
+ M1A1_Tan4 {
+  coords 2183.832 393.915 445.195
+  angleX 1.024
+  angleY 31.257
+  angleZ -0.044
+ }
+}
+$grp Tank : "{953523CFE2DB9769}Prefabs/Vehicles/Tracked/M113/M113_APC_MERDC.et" {
+ M113_APC_MERDC1 {
+  coords 2170.34 393.625 434.712
   angleX 1.025
-  angleY 33.725
-  angleZ 0.001
+  angleY 32.728
+  angleZ -0.017
  }
- M2A2_Desert4 {
-  coords 2180.189 393.799 439.855
+ M113_APC_MERDC2 {
+  coords 2171.5 393.434 421.086
   angleX 1.025
-  angleY 32.854
-  angleZ -0.015
+  angleY 32.728
+  angleZ -0.017
  }
- M2A2_Desert5 {
-  coords 2161.938 393.319 420.878
-  angleX 3.852
-  angleY 32.47
-  angleZ -0.239
+ M113_APC_MERDC3 {
+  coords 2159.383 393.001 416.705
+  angleX 3.938
+  angleY 32.745
+  angleZ 0.171
  }
- M2A2_Desert6 {
-  coords 2158.999 392.206 404.173
-  angleX 4.33
-  angleY 32.137
-  angleZ 0.04
+ M113_APC_MERDC4 {
+  coords 2159.735 392.197 403.583
+  angleX 4.329
+  angleY 32.733
+  angleZ 0.085
  }
- M2A2_Desert7 {
-  coords 2144.64 390.97 393.268
-  angleX 3.939
-  angleY 32.622
-  angleZ 0.162
+ M113_APC_MERDC5 {
+  coords 2145.569 390.959 392.543
+  angleX 3.938
+  angleY 32.732
+  angleZ 0.17
  }
- M2A2_Desert8 {
-  coords 2142.213 389.554 373.833
-  angleX 5.199
-  angleY 31.546
-  angleZ 0.198
+ M113_APC_MERDC6 {
+  coords 2147.545 390.239 379.746
+  angleX 4.329
+  angleY 32.703
+  angleZ 0.083
+ }
+ M113_APC_MERDC7 {
+  coords 2135.713 389.44 376.05
+  angleX 5.194
+  angleY 32.75
+  angleZ 0.308
+ }
+ M113_APC_MERDC8 {
+  coords 2136.659 388.305 360.829
+  angleX 5.194
+  angleY 32.75
+  angleZ 0.308
  }
 }

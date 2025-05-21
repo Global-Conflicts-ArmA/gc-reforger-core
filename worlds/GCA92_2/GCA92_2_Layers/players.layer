@@ -1,0 +1,91 @@
+$grp SCR_AIGroup : "{23EE53D8F8C15C56}Prefabs/Groups/BLUFOR/US/Army_1985_Rifles_Desert/P/Group_US_PlatoonHQ_DBDU_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8250.507 322.187 2001.276
+  angleY -31.191
+  m_aUnitPrefabSlots {
+   "{09D18C817548917C}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_PL_P.et" "{66665C883059838E}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_Sergeant_P.et" "{817186063EA4D889}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_RTO_P.et" "{339CAFC03AE46308}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_MG_P.et" "{A721EEA5B5C8A996}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_AMG_P.et" "{253B0093930E0BC9}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_Medic_P.et"
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8276.003 322.188 2015.082
+  angleY -31.191
+  m_aUnitPrefabSlots {
+   "{09D18C817548917C}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_PL_P.et" "{66665C883059838E}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_Sergeant_P.et" "{817186063EA4D889}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_RTO_P.et" "{339CAFC03AE46308}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_MG_P.et" "{A721EEA5B5C8A996}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_AMG_P.et" "{253B0093930E0BC9}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_Medic_P.et"
+  }
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8237.462 322.249 1994.786
+  angleY -31.191
+ }
+}
+$grp SCR_AIGroup : "{F7A586F33AFD0C4C}Prefabs/Groups/BLUFOR/US/Army_1985_Rifles_Desert/P/Group_US_RifleSquad_DBDU_P.et" {
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8255.572 322.187 2004.181
+  angleY -28.443
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8261.348 322.187 2007.265
+  angleY -28.443
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8266.644 322.187 2010
+  angleY -28.443
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8292.139 322.188 2023.804
+  angleY -28.443
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8281.067 322.188 2017.985
+  angleY -28.443
+ }
+ {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "Column"
+   }
+  }
+  coords 8286.843 322.188 2021.069
+  angleY -28.443
+ }
+}

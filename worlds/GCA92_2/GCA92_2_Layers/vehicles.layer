@@ -1,0 +1,18 @@
+$grp Vehicle : "{F503F71C08BE3F7D}Prefabs/Vehicles/Helicopters/AUS_MH60/AUS_UH60_armed.et" {
+ AUS_UH60_armed1 {
+  coords 8269.348 322.188 2057.779
+  angleY 151.839
+ }
+ AUS_UH60_armed2 {
+  coords 8250.023 322.188 2046.298
+  angleY 151.839
+ }
+ AUS_UH60_armed3 {
+  coords 8232.946 322.187 2036.335
+  angleY 151.839
+ }
+ AUS_UH60_armed4 {
+  coords 8214.551 322.187 2025.703
+  angleY 151.839
+ }
+}

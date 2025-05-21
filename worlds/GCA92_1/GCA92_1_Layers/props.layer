@@ -460,10 +460,10 @@ $grp StaticModelEntity : "{19D504D46A48529A}Prefabs/Structures/Military/Fortific
     }
    }
   }
-  coords 4849.431 0.266 679.25
-  angleX -3.397
-  angleY -69.592
-  angleZ -3.076
+  coords 5032.046 0.318 644.684
+  angleX -2.395
+  angleY -81.538
+  angleZ -3.151
  }
  {
   components {
@@ -476,10 +476,10 @@ $grp StaticModelEntity : "{19D504D46A48529A}Prefabs/Structures/Military/Fortific
     }
    }
   }
-  coords 4850.485 0.287 681.803
-  angleX -5.728
-  angleY -66.766
-  angleZ -0.301
+  coords 5032.518 0.337 647.406
+  angleX -2.511
+  angleY -78.468
+  angleZ -3.553
  }
  {
   components {
@@ -492,10 +492,10 @@ $grp StaticModelEntity : "{19D504D46A48529A}Prefabs/Structures/Military/Fortific
     }
    }
   }
-  coords 4856.323 0 681.973
-  angleX -3.296
-  angleY 21.418
-  angleZ -4.028
+  coords 5038.142 0.278 648.728
+  angleX -1.444
+  angleY 8.328
+  angleZ -2.923
  }
  {
   components {
@@ -508,10 +508,10 @@ $grp StaticModelEntity : "{19D504D46A48529A}Prefabs/Structures/Military/Fortific
     }
    }
   }
-  coords 4850.766 0 676.274
-  angleX -3.63
-  angleY -149.464
-  angleZ 2.798
+  coords 5033.977 0.398 642.026
+  angleX -0.618
+  angleY -162.016
+  angleZ 4.393
  }
  {
   components {
@@ -524,10 +524,10 @@ $grp StaticModelEntity : "{19D504D46A48529A}Prefabs/Structures/Military/Fortific
     }
    }
   }
-  coords 4853.586 0.001 683.004
-  angleX -0.016
-  angleY 21.079
-  angleZ -5.472
+  coords 5035.275 0.321 649.214
+  angleX 1.949
+  angleY 8.232
+  angleZ -3.171
  }
  {
   components {
@@ -540,36 +540,11 @@ $grp StaticModelEntity : "{19D504D46A48529A}Prefabs/Structures/Military/Fortific
     }
    }
   }
-  coords 4853.309 0 674.831
-  angleX -2.905
-  angleY -153.876
-  angleZ 2.052
+  coords 5036.756 0.354 641.091
+  angleX -0.223
+  angleY -167.124
+  angleZ 4.431
  }
-}
-Turret : "{29F0CC704A582154}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV.et" {
- components {
-  TILW_VehicleCrewComponent "{65693D6F8CEDFE16}" {
-   m_crewConfig TILW_CrewConfig "{65693D6F8DB2E109}" {
-    m_crewGroups {
-     TILW_CrewGroup "{65693D6F8E73F006}" {
-      m_crewStations {
-       TILW_CrewStation "{65693D6F8F1F39BD}" {
-        m_allowPilot 0
-        m_allowCargo 0
-        m_characters {
-         "{21A1481C0C4345AF}Prefabs/Characters/Factions/INDFOR/GC_TKA/Takistan Army 1992-2012 (TKA)/Character_GC_TKA_Rifleman.et"
-        }
-       }
-      }
-     }
-    }
-    m_noTurretDismount 1
-   }
-  }
- }
- coords 5080.884 391.371 1242.852
- angleX -3.23
- angleY -88.624
 }
 StaticModelEntity : "{5196CA1829D428F7}Prefabs/Compositions/Misc/SubCompositions/Sandbag_Bunker_Cluttered_US_01.et" {
  coords 5113.478 383.45 1128.422

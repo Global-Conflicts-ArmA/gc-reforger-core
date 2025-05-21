@@ -1,6 +1,6 @@
 SCR_AIGroup : "{FCBE9E46702ED307}Prefabs/Groups/BLUFOR/Group_US_PlatoonHQ_P.et" {
  ID "0000000000000001"
  m_aUnitPrefabSlots {
-  "{09D18C817548917C}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_PL_P.et" "{817186063EA4D889}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_RTO_P.et" "{253B0093930E0BC9}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_Medic_P.et"
+  "{09D18C817548917C}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_PL_P.et" "{66665C883059838E}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_Sergeant_P.et" "{817186063EA4D889}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_RTO_P.et" "{253B0093930E0BC9}Prefabs/Characters/Factions/BLUFOR/US_Army/DBDU/P/Character_US_DBDU_Medic_P.et"
  }
 }
