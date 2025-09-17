@@ -1,0 +1,4 @@
+Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
+ coords 2032.658 55.334 2123.865
+ angleY 70.371
+}
