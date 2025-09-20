@@ -1,0 +1,22 @@
+Tree : "{D7163D1B571F4C0C}Prefabs/Vegetation/Core/Bush_Base.et" {
+ ID "0F2AA6B42CA78628"
+ components {
+  RigidBody "{4EFA6762916D17E5}" {
+   ModelGeometry 0
+   Geometries {
+    PhysicsCapsuleGeometry collider {
+     LayerPreset "Tree"
+     SurfaceProperties "{7606C18BA0EF2211}Common/Materials/Game/wood_logs.gamemat"
+     Offset 0 0.4 0
+     Radius 0.2
+     Height 0.8
+    }
+    PhysicsModelGeometry "{665EAA93729830DC}" {
+     LayerPreset "Bush"
+     SurfaceProperties "{30CA27C8D1F3DE2D}Common/Materials/Game/foliage.gamemat"
+     Collider "UCX_Fol"
+    }
+   }
+  }
+ }
+}
