@@ -14,7 +14,6 @@ GenericEntity : "{EFC76BFD1984F44D}Prefabs/Weapons/Core/Cannon_base.et" {
      }
     }
     MuzzleComponent "{50F64C4591CD7AA6}" {
-     MuzzleType RPGMuzzle
      DispersionRange 382.5
     }
    }
