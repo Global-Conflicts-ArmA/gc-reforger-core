@@ -1,0 +1,51 @@
+Turret : "{66596659FB0F645B}Prefabs/Vehicles/Wheeled/BTR70/VehParts/Turret/BTR70_Turret.et" {
+ ID "51ACD0965653D003"
+ components {
+  TF_WeaponRecoilComponent "{690A604047BA2692}" {
+   m_fImpulse 300
+   m_vRecoilPosition PointInfo "{690A60404311E5F6}" {
+    PivotID "v_gun_01"
+   }
+  }
+  TF_WeaponRecoilComponent "{690A60406BA59A85}" {
+   m_iWeaponIndex 1
+   m_fImpulse 300
+   m_vRecoilPosition PointInfo "{690A604066062BD3}" {
+    PivotID "v_gun_01"
+   }
+  }
+  SlotManagerComponent "{690A6044ABEB10B7}" {
+   Slots {
+    EntitySlotInfo Random {
+     PivotID "v_turret_01"
+     Offset 0 0.3809 0
+     MergePhysics 1
+     Prefab "{51D998E54BD87171}Prefabs/Vehicles/Wheeled/K17/Turret_K17_Commander.et"
+    }
+   }
+  }
+  WeaponSlotComponent "{0AACE747111B1282}" {
+   WeaponSlotIndex 2
+  }
+  WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+   AttachType InventoryStorageSlot "{0AACE7470E421D82}" {
+    Offset 0 0 0
+   }
+   WeaponTemplate "{2CE44983D2BA2F7D}Prefabs/Weapons/HeavyWeapons/2A42/Weapon_2A42_k4386.et"
+  }
+  WeaponSlotComponent "{690A6046EE8EFC51}" {
+   SignalsSourceAccess SignalsSourceAccessClass "{690A604507436EC7}" {
+    signalsSuffix "Turret"
+   }
+   useAimingType MainTurret
+   shouldHandleObstruction 0
+   AttachType InventoryStorageSlot "{690A604539EB5FA3}" {
+    PivotID "v_gun_01"
+    Offset 0 0 0
+    MergePhysics 1
+   }
+   WeaponTemplate "{90FFE321F7D41994}Prefabs/Weapons/HeavyWeapons/2A42/Weapon_2A42_HE_k4386.et"
+   WeaponSlotIndex 1
+  }
+ }
+}
