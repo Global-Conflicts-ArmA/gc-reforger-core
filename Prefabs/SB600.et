@@ -1,0 +1,13 @@
+GenericEntity : "{82E5944974B9DEBD}Prefabs/SB300.et" {
+ ID "65932E3D2F6C309A"
+ components {
+  SCR_ExplosiveTriggerComponent "{687F298D8294AF41}" {
+   PROJECTILE_EFFECTS {
+    ExplosionEffect "{687F298D8294AF4D}" {
+     EffectPrefab "{550AEC277DBCCB33}Prefabs/Weapons/Ammo/Ammo_Missile_FGM-148.et"
+     ParticleEffect "{986536ABD59AEA44}Particles/Weapon/Explosion_AGM-114.ptc"
+    }
+   }
+  }
+ }
+}
