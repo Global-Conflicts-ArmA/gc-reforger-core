@@ -1,0 +1,21 @@
+Vehicle : "{1C5FE7B7FF49BB8D}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Base.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  SCR_UniversalInventoryStorageComponent "{59168B38F20DFF74}" {
+   MultiSlots {
+    MultiSlotConfiguration "{62F49BDC3FB9A9FE}" {
+     SlotTemplate InventoryStorageSlot kpvt {
+     }
+     NumSlots 0
+    }
+   }
+  }
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo Turret {
+     Prefab "{E36EE5C4858B2D4C}Prefabs/Vehicles/Wheeled/BTR70/VehParts/Turret/BTR80A_Turret.et"
+    }
+   }
+  }
+ }
+}
