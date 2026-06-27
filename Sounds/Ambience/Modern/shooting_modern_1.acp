@@ -1,0 +1,120 @@
+AudioClass {
+ vars {
+  VariableClass "13342" {
+   id 13342
+   name "Volume Var"
+   version 5
+   tl 16 144
+   varLocName "Volume"
+   varLocalResource "{7832629955842580}Sounds/Ambience/GC_LocalVars.conf"
+  }
+ }
+ sounds {
+  SoundClass "1033" {
+   id 1033
+   name "SOUND"
+   version 5
+   tl 272 -16
+   ins {
+    ConnectionsClass "con:1" {
+     id 1
+     links {
+      ConnectionClass "13342:65" {
+       id 13342
+       port 65
+      }
+     }
+    }
+    ConnectionsClass "con:64" {
+     id 64
+     links {
+      ConnectionClass "11282:65" {
+       id 11282
+       port 65
+      }
+     }
+    }
+   }
+   pi {
+    2 0
+   }
+   noInAudible 0
+  }
+ }
+ shaders {
+  ShaderClass "11282" {
+   id 11282
+   name "Shader 11"
+   version 5
+   tl 16 -16
+   ins {
+    ConnectionsClass "con:0" {
+     id 0
+     links {
+      ConnectionClass "10268:65" {
+       id 10268
+       port 65
+      }
+     }
+    }
+    ConnectionsClass "con:1" {
+     id 1
+     links {
+      ConnectionClass "12307:65" {
+       id 12307
+       port 65
+      }
+     }
+    }
+    ConnectionsClass "con:64" {
+     id 64
+     links {
+      ConnectionClass "4100:65" {
+       id 4100
+       port 65
+      }
+     }
+    }
+   }
+   pi {
+    3 0
+   }
+  }
+ }
+ amplitudes {
+  AmplitudeClass "12307" {
+   id 12307
+   name "Amplitude 12"
+   version 5
+   tl 16 -128
+   curve Logarithm
+   outerRange 3000
+  }
+ }
+ banks_local {
+  BankLocalClass "4100" {
+   id 4100
+   name "Bank 4"
+   version 7
+   tl -272 -16
+   "Loop count" 255
+   "Infinite loop" 1
+   "Random start offset" 1
+   Samples {
+    AudioBankSampleClass "shooting_1.wav" {
+     Filename "{04C9E67DBBF95E26}Sounds/Ambience/Modern/raw/shooting_1.wav"
+    }
+   }
+  }
+ }
+ spatialities {
+  SpatialityClass "10268" {
+   id 10268
+   name "Spatiality 10"
+   version 5
+   tl 16 -208
+   spatialFactor 1
+  }
+ }
+ version 2
+}
