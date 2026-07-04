@@ -3,20 +3,8 @@ SCR_ChimeraCharacter {
  components {
   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
    components {
-    PerceptionComponent "{54A2CBC75F06064B}" {
-     SensorsList {
-      EyesSensor "{520EA1D2DB109AAD}" {
-       FOVNormal 100
-       FOVPeripheral 150
-       AngularSizeFactor_a 0.045
-       AngularSizeFactor_c 0.06
-       AngularVelocityFactor_a 1500
-       AngularVelocityFactor_b 6
-      }
-     }
-    }
     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
-     m_eAISkillDefault EXPERT
+     m_eAISkillDefault VETERAN
     }
    }
   }
