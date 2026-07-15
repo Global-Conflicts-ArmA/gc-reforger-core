@@ -34,7 +34,7 @@ class GC_ForceDefinition
 	protected GC_ForceType m_eType;
 }
 
-[BaseContainerProps(configRoot: true)]
+[BaseContainerProps()]
 class GC_MissionGroupDefinition
 {
 	[Attribute(defvalue: "", desc: "Shared identifier of the mission group (e. g. 'Roulette')")]
