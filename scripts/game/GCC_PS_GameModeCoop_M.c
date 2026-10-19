@@ -11,6 +11,10 @@ modded class PS_GameModeCoop : SCR_BaseGameMode
 	
 	[RplProp()]
 	protected bool m_bInPrepPhase = true;
+
+	// SAFE START (moved here from the TILW mission framework)
+	[Attribute("60", UIWidgets.Object, desc: "How many seconds should safe start last?", category: "Reforger Lobby", params: "0 inf 0")]
+	int m_safeStartTime;
 	
 	override void OnGameStart()
 	{
