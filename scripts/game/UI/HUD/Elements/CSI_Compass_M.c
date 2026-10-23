@@ -38,7 +38,7 @@ modded class CSI_Compass : SCR_ScriptedWidgetComponent
 		BaseCompartmentSlot compartment; 
 		IEntity player = pc.GetControlledEntity();
 		if (player)
-			compartment = CSI_CharacterHelper.GetCharacterVehicleCompartment(player);
+			compartment = CSI_EntityHelper.GetCharacterVehicleCompartment(player);
 		if (m_SettingsManager.GetSettingBool(CSI_GameSettings.BEARING_VISIBLE) && compartment)
 
 		{
