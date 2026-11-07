@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "66322C39A0F5EA39"
+ components {
+  GC_SimpleVehicleSpawner "{66322C398DFD3AC0}" {
+   m_aPrefabList {
+    ""
+   }
+  }
+  RplComponent "{66322C39F9514912}" {
+  }
+  Hierarchy "{66322C39A0F5EA50}" {
+  }
+ }
+ coords 2056.049 48.569 3411.102
+}
