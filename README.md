@@ -6,14 +6,18 @@ GC Lobby, terrain packs, vehicle packs, or Realistic Combat Drones.
 
 ## Direct requirements
 
-Alongside Arma Reforger, Core requires only the systems its own changes use:
+Alongside Arma Reforger, Core requires:
 
-- ACE Core Dev: settings infrastructure and the metal-clanging command extension.
-- ACE Captives Dev: captive/surrender options in the entity modifier.
-- ACE Finger Dev: pointing, ping and editor settings.
-- ACE Medical Core Dev: shared medical settings.
-- ACE Overheating Dev: the clear-jam input binding.
-- CSI: the compass presentation extension.
+- **ACE All in One Dev** (`65AD7BE594439A52`), the official collection of ACE Dev
+  modules. It includes ACE Core Dev and ACE Medical Core Dev
+  (`6586079789278413`), along with pointing, captives, overheating and the other
+  ACE systems. We use this single umbrella requirement rather than maintaining
+  individual ACE dependency entries across GC projects.
+- **CSI**, for the compass presentation extension.
+
+ACE's collection owns the exact module list; GC inherits its Dev dependencies.
+This intentionally loads the full ACE Dev suite, including modules beyond the
+specific ACE features Core modifies.
 
 Equipment, weapon, mortar, vehicle and unit overrides now belong to GC Units.
 Worlds, mission headers and terrain-specific data belong to GC Missions.
